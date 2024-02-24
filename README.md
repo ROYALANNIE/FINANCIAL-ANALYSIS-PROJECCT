@@ -17,3 +17,5 @@ Benefits for Everyone:
 Non-technical users: Gain valuable insights without needing to understand code.
 Programmers: Learn the fundamentals of data visualization and improve your Python skills.
 Join the journey of discovery and unlock the potential hidden within the financial data!
+THE LINK TO THE DATASET FOR THE PROJECT
+https://drive.google.com/file/d/1u7mqgnxxo-QNeBFz-mBMhRPcieKctfTi/view
